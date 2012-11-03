@@ -1,0 +1,28 @@
+[user]
+	name = Sandro Queiroz Jr
+	email = sandroqz@gmail.com
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+	ui = true
+[alias]
+	sh = !git-sh
+	ci = commit
+	co = checkout
+	a = add
+	b = branch
+	st = status
+	who = shortlog -s --
+	fl = log -p
+	lg = log --oneline --decorate
+	sb = status -sb
+	dw = diff --word-diff
+[core]
+	excludesfile = /Users/sandro/.gitignore
+[help]
+	autocorrect = 1
+[branch]
+	autosetuprebase = always
+[push]
+	default = current
