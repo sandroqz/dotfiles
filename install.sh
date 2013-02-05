@@ -4,4 +4,6 @@ cp files/gitconfig ~/.gitconfig
 cp files/gitignore ~/.gitignore
 cp files/inputrc ~/.inputrc
 cp files/psqlrc ~/.psqlrc
+cp files/irbrc ~/.irbrc
+cp files/pryrc ~/.pryrc
 logout
