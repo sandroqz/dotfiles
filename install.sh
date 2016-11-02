@@ -7,4 +7,5 @@ cp files/psqlrc ~/.psqlrc
 cp files/irbrc ~/.irbrc
 cp files/pryrc ~/.pryrc
 cp files/test-unit.yml ~/.test-unit.yml
+cp files/curlrc ~/.curlrc
 logout
