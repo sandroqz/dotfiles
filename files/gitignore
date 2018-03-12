@@ -8,3 +8,4 @@ tmp
 coverage
 *.log
 *.env
+.rubocop.yml
